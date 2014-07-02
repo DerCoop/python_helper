@@ -1,3 +1,13 @@
+"""
+A ringbuffer implementation for python
+
+    This implementation uses a deque with a static size to
+        store all elements.
+
+    Written by DerCoop <dercoop@users.sourceforge.net>
+
+"""
+
 __author__ = 'coop'
 __license__ = 'GPLv2'
 
