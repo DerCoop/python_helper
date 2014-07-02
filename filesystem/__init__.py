@@ -1,5 +1,8 @@
 """
-Some filesystem helper functions for python
+Some filesystem helper functions (UNIX) for python
+
+    Written by DerCoop <dercoop@users.sourceforge.net>
+
 """
 
 __author__ = 'coop'
